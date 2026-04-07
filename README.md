@@ -52,12 +52,16 @@ POST /register - Регистрация:
 <img width="1749" height="367" alt="{4F728215-C51F-484D-AF26-570C08E2696B}" src="https://github.com/user-attachments/assets/b219b63e-3174-41e2-a019-c61dd0a7d37e" />
 POST /register - Повторная регистрация:
 <img width="1762" height="345" alt="{3E3CDE93-DA56-494C-AC06-3AB717AD069C}" src="https://github.com/user-attachments/assets/6f575838-4469-42fa-a0da-86adfc34ddef" />
+Проверка на ограничение 1 запрос в минуту (защита от спама)
+<img width="1901" height="230" alt="{FEDD7473-7E71-4752-A4E8-3A80B777CDE4}" src="https://github.com/user-attachments/assets/9ae8648d-fe1d-439b-940f-a0b2e9ea8304" />
 POST /login - Несуществующий пользователь:
 <img width="1743" height="608" alt="{BABFDFF3-BED2-4CF7-89B7-5E56FC66E4EC}" src="https://github.com/user-attachments/assets/5a1adc17-3bf8-4376-a948-cc2fda6c4d42" />
 POST /login - Неправильный пароль:
 <img width="1768" height="634" alt="{297941F2-D12A-4E9E-8759-DB95747FAC31}" src="https://github.com/user-attachments/assets/08a08595-ba55-4831-845d-b1de2ab9b897" />
 POST /login - Успешный вход:
 <img width="1752" height="612" alt="{28251B8C-566E-408B-A346-94B0DEC6E455}" src="https://github.com/user-attachments/assets/a28da308-0571-4e85-968c-18da8ea4c613" />
+Проверка на ограничение 5 запросов в минуту (ограничение попыток ввода пароля)
+<img width="1907" height="219" alt="{366ED5A0-D867-4B07-BC65-BD48DFBFB6B5}" src="https://github.com/user-attachments/assets/ec35d0d9-19c4-4820-8e95-d298eef7c936" />
 GET /protected_resource:
 <img width="1763" height="763" alt="{306C2E51-D38B-402A-A509-50C30EA4DC22}" src="https://github.com/user-attachments/assets/e3a73833-5ed0-4b55-8142-a9a30b845bb0" />
 
